@@ -37,8 +37,8 @@
 1. Клонировать репозиторий и перейти в папку проекта:
 
    ```bash
-   git clone <URL_репозитория>
-   cd <папка_проекта>
+   git clone https://github.com/mserovvv/trillpill_project.git
+   cd pythonProject-1
    ```
 2. Создать виртуальное окружение и установить зависимости:
 
